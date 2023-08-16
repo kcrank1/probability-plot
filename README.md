@@ -42,6 +42,9 @@ A single data set:
 Multiple data sets:
 ![](multiple_plots.JPG)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code according to the terms of the license.
+## Meta
+
+ [@katcrank](https://twitter.com/katcrank) – katherine.crank@snwa.com
+
+
