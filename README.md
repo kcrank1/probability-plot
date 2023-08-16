@@ -37,10 +37,11 @@ probplot_multiple(list(x, y, z))
 ## Example Graphs
 A single data set:
 
-![](single_plot.JPG)
+-![](single_plot.JPG)
 
 Multiple data sets:
-![](multiple_plots.JPG)
+
+-![](multiple_plots.JPG)
 
 
 ## Meta
