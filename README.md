@@ -36,8 +36,8 @@ probplot_multiple(list(x, y, z))
 
 ## Example Graphs
 
-![](Fig_Inspiration.PNG)
-![](Fig_Inspiration.PNG)
+![](single_plot.JPG)
+![](multiple_plots.JPG)
 
 ## License
 
