@@ -35,8 +35,9 @@ probplot_multiple(list(x, y, z))
 ```
 
 ## Example Graphs
-
+A single data set:
 ![](single_plot.JPG)
+Multiple data sets:
 ![](multiple_plots.JPG)
 
 ## License
